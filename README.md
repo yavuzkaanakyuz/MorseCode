@@ -2,7 +2,7 @@
 In this application, we print Morse code on the screen when buttons are pressed using UIKit.
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-28 at 11 30 38](https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/84552c6c-7c94-42f7-b502-9253efa55492)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-28 at 11 30 41](https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/acda18f4-31e2-4ed2-bb33-b074a77a5972)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-28 at 11 30 44](https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/4d7df02c-de68-4c89-8c72-48934a9cb926)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-28 at 11 30 46](https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/39bcf289-d617-4fef-ac83-8bd3b329889c)
+<img width="502" alt="Ekran Resmi 2024-02-28 12 42 06" src="https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/6bb82b3d-4fdd-4310-acab-e19cf32c6ae1">
+<img width="502" alt="Ekran Resmi 2024-02-28 12 42 10" src="https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/a5448a8f-6a45-4383-8afd-f16c8766ef99">
+<img width="502" alt="Ekran Resmi 2024-02-28 12 42 13" src="https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/c0b6d6e3-35e1-4a22-bdde-92c2e80d0be1">
+<img width="502" alt="Ekran Resmi 2024-02-28 12 42 22" src="https://github.com/yavuzkaanakyuz/MorseCode/assets/108089860/653a5464-f264-4acb-aeaf-21948c9e210b">
